@@ -1,4 +1,4 @@
-# Applied Data Science – Immunovirus Dataset Analysis
+# Immunovirus Dataset Analysis
 
 ## Project Overview
 
